@@ -21,7 +21,6 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-redis")
 
     implementation("org.springframework.boot:spring-boot-starter-web")
-//    implementation(project(":common"))
     implementation(project(":jpa"))
 
     implementation("jakarta.validation:jakarta.validation-api:3.0.2")
